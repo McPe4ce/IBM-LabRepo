@@ -1,1 +1,118 @@
+# Issue Templates
 
+Below are some fictive issue templates for this repository.  
+You can split them into separate files in `.github/ISSUE_TEMPLATE/` later if you like.
+
+---
+
+## Bug Report
+
+---
+name: "🐛 Bug report"
+about: "Report a problem in the IBM-LabRepo labs or exercises"
+title: "[BUG] <short summary>"
+labels: ["bug", "triage-needed"]
+assignees: []
+---
+
+**Describe the bug**
+
+A clear and concise description of what the bug is.
+
+**Lab / Exercise**
+
+- Lab name:  
+- File / notebook:  
+- Section / step:
+
+**Steps to reproduce**
+
+1. Go to '...'
+2. Run command / cell '...'
+3. Scroll to '...'
+4. See error
+
+**Expected behavior**
+
+What did you expect to happen?
+
+**Actual behavior / error messages**
+
+Paste logs, stack traces, or screenshots here.
+
+**Environment**
+
+- OS:
+- Python version:
+- Tooling (e.g., Jupyter, VS Code, Cloud environment, etc.):
+
+**Additional context**
+
+Add any other context about the problem here.
+
+---
+
+## Feature Request
+
+---
+name: "✨ Feature request"
+about: "Suggest an enhancement to the IBM-LabRepo content or tooling"
+title: "[FEATURE] <short summary>"
+labels: ["enhancement"]
+assignees: []
+---
+
+**Is your feature request related to a problem? Please describe.**
+
+A clear and concise description of the problem you’re facing.
+
+**Describe the solution you’d like**
+
+What would you like to see added or changed?
+
+**Describe alternatives you’ve considered**
+
+Any alternative solutions or workarounds you’ve tried.
+
+**Additional context**
+
+Add any other context, examples, or references here.
+
+---
+
+## Documentation Improvement
+
+---
+name: "📝 Docs improvement"
+about: "Report unclear or missing documentation in labs"
+title: "[DOCS] <short summary>"
+labels: ["documentation"]
+assignees: []
+---
+
+**Location of the documentation**
+
+- Lab / file:
+- Section / heading:
+- Link (if applicable):
+
+**What is unclear or missing?**
+
+Explain what needs to be improved.
+
+**Suggested change**
+
+If possible, propose new wording or structure.
+
+**Additional context**
+
+Anything else reviewers should know.
+
+---
+
+## Lab Feedback
+
+---
+name: "💬 Lab feedback"
+about: "General feedback on a lab (
+
